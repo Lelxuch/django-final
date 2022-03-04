@@ -3,5 +3,4 @@ django_heroku==0.3.1
 keras==2.8.0
 numpy==1.22.2
 SQLAlchemy==1.4.26
-tensorflow==2.8.0
 tensorflow_cpu==2.8.0
